@@ -1,0 +1,11 @@
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+
+p {
+  border: 1px solid powderblue;
+  padding: 30px;
+  marging: 50px;
+}
